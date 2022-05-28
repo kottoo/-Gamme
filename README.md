@@ -1,5 +1,7 @@
 # -Game tàu vũ trụ 
+
 Nguyen Duy Dat - 21020063
+
 1, HƯỚNG DẪN :  - Chọn Code , chọn dowload zip 
                 - Giải nén file zip tải 
                 - Bấm vào file main.exe để chạy chương trình 
